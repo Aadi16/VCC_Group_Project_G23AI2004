@@ -56,4 +56,4 @@ This model deployed on app engine on GCP
 
 End point to access the app running on GCP.
 
-https://vcc-assignment-g23ai2014.as.r.appspot.com/
+https://customersegmentation-435711.dt.r.appspot.com/
